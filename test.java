@@ -2,6 +2,9 @@ class Test{
     public static void main(String[] args)
     {
         int a=10+20;
-        System.out.println(a);
+        System.out.println("A:"+a);
+
+        int b=109+20;
+        System.out.println("B:"+b);
     }
 }
