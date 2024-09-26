@@ -9,5 +9,8 @@ class Test{
 
         int c=109-20;
         System.out.println("C:"+c);
+
+        int mul=109*20;
+        System.out.println("MUL:"+mul);
     }
 }
