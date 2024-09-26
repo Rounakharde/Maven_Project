@@ -6,5 +6,8 @@ class Test{
 
         int b=109+20;
         System.out.println("B:"+b);
+
+        int c=109-20;
+        System.out.println("C:"+c);
     }
 }
