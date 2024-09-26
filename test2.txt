@@ -1,1 +1,0 @@
-Java 8 introduced a host of powerful features that have significantly enhanced the Java programming language. Introducing new features such as Lambda Expressions, Stream API, Functional Interfaces, the new Date and Time API, and more.
