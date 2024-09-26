@@ -18,11 +18,7 @@
 		<dependency>
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
-<<<<<<< HEAD
 			<version>3.8.2</version>
-=======
-			<version>3.8.0</version>
->>>>>>> c0361a65d322c722dc9549b20505c61c49ed9e31
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
