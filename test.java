@@ -12,5 +12,10 @@ class Test{
 
         int mul=109*20;
         System.out.println("MUL:"+mul);
+
+        public void m()
+        {
+            System.out.println("methdo m");
+        }
     }
 }
